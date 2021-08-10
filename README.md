@@ -1,13 +1,14 @@
 <h1 align="center">Hello, I'm Mateusz</h1>
-<h3 align="center">JavaScript / React programmer from Poland</h3>
+<h3 align="center">JavaScript / Frontend programmer from Poland</h3>
 
 <h3 align="left">Languages: </h3>
 <ul>
   <li>HTML</li>
-  <li>SCSS</li>
+  <li>CSS/SCSS</li>
   <li>JavaScript</li>
   <li>React</li>
-  <li>Redux(basics)</li>
+  <li>Vue</li>
+  <li>Svelte</li>
 </ul>
   
 <h3 align="left">Version control system: </h3>
